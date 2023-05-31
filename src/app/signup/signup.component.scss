@@ -1,0 +1,27 @@
+.mat-toolbar {
+  margin: -24px;
+  width: auto;
+  margin-bottom: 10px;
+}
+
+mat-form-field {
+  padding: 5px;
+}
+
+mat-hint {
+  color: red;
+}
+.signup{
+  align-content: center;
+  justify-content: center;
+  display: flex;
+}
+.example-button-row{
+  display: table-cell;
+  max-width: 700px;
+  float: right;
+}
+.example-button-row button{
+  margin: 10px;
+}
+
